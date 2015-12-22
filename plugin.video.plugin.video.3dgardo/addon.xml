@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.plugin.video.3dgardo" name="3dgardo IPTV" version="0.0.1" provider-name="3dgardoIPTV">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Donacion a 3dgardo@live.com PAYPAL</summary>
+        <description>Canales Latinos Varierdad</description>
+    </extension>
+</addon>
